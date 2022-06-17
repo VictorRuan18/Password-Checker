@@ -5,7 +5,7 @@ import java.util.Scanner;
  * following conditions: 1. At least 8 characters long and 2. Must use at least
  * 3 of the following 4 types of characters - upper case letters (e.g., A, B,
  * C,...) - lower case letter (e.g., a, b, c, ...) - digits (e.g., 1, 2, 3, ...)
- * - special characters (e.g., !, @, $, %, ...)
+ * - special characters (e.g., !, @, $, %, ...).
  *
  * @author Victor Ruan
  *
